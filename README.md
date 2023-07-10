@@ -18,3 +18,5 @@
 - OTA version: 
 - Branch: yulong89_wet_kk-user-4.4.2-KOT49H-146-release-keys
 - Repo: micromax/A109
+
+Imported from https://gitlab.com/Android-Dumps/micromax/A109.git
